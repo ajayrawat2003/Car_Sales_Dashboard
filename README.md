@@ -30,3 +30,6 @@ Detailed Car Sales Grid (Full Sales Data)
 Technologies Used
 Power BI for data visualization and dashboard creation
 Excel/SQL for data preprocessing and management
+
+![image](https://github.com/user-attachments/assets/c1ef89e2-3838-4f64-b1a8-d57343b6ef83)
+
