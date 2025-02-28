@@ -7,6 +7,10 @@ This Power BI dashboard provides interactive insights into car sales performance
 Objective
 The goal of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI to visualize key metrics and enhance business intelligence.
 
+![image](https://github.com/user-attachments/assets/c1ef89e2-3838-4f64-b1a8-d57343b6ef83)
+
+![image](https://github.com/user-attachments/assets/9bdd9780-0062-4f06-913b-7acedcd03577)
+
 Key Features
 Sales Overview:
 Year-to-Date (YTD) & Month-to-Date (MTD) Total Sales
@@ -31,6 +35,3 @@ Technologies Used
 Power BI for data visualization and dashboard creation
 Excel/SQL for data preprocessing and management
 
-![image](https://github.com/user-attachments/assets/c1ef89e2-3838-4f64-b1a8-d57343b6ef83)
-
-![image](https://github.com/user-attachments/assets/9bdd9780-0062-4f06-913b-7acedcd03577)
